@@ -1,2 +1,3 @@
 # Practice-demo
-This is Collection of Practiced Programs.
+This is a Collection of Practiced Programs.
+Author- Dnyanesh Nimbalkar
